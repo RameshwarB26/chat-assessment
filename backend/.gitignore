@@ -1,0 +1,8 @@
+node_modules/
+logs/
+*.log
+
+# Keep local configuration private while allowing the sample configuration.
+.env
+.env.*
+!.env.example
